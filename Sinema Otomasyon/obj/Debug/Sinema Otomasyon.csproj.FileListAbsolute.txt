@@ -1,0 +1,27 @@
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema Otomasyon.csproj.AssemblyReference.cache
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema_Otomasyon.Properties.Resources.resources
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema Otomasyon.csproj.GenerateResource.cache
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\bin\Debug\Sinema Otomasyon.exe.config
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\bin\Debug\Sinema Otomasyon.exe
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\bin\Debug\Sinema Otomasyon.pdb
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema Otomasyon.exe
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema Otomasyon.pdb
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema_Otomasyon.frm2.resources
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema_Otomasyon.frmacilis1.resources
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema_Otomasyon.frm3.resources
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema_Otomasyon.frm4yonetmenlst.resources
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema_Otomasyon.YonetmenListesi.resources
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema_Otomasyon.frm5OyuncuKayıt.resources
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema_Otomasyon.frm6OyuncuListesi.resources
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema_Otomasyon.Oyunculst.resources
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema_Otomasyon.frm7SalonKayit.resources
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema_Otomasyon.salonlistesi.resources
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema_Otomasyon.frm8filmkayit.resources
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema_Otomasyon.frm9filmliste.resources
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema_Otomasyon.filmlistesi.resources
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema_Otomasyon.frm10filmdetay.resources
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema_Otomasyon.frm11Biletolusturma.resources
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema_Otomasyon.frm12biletsorgu.resources
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema_Otomasyon.frm13biletdetay.resources
+C:\Users\smust\source\repos\Sinema Otomasyon\Sinema Otomasyon\obj\Debug\Sinema_Otomasyon.frmsalonatama.resources
